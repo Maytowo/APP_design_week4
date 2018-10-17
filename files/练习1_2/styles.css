@@ -509,4 +509,6 @@
   text-decoration:none;
   color:#000000;
   text-align:left;
+  border-color:transparent;
+  outline-style:none;
 }
